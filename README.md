@@ -163,6 +163,8 @@ Collection of awesome Python resources for testing and generating test data.
 - [green](https://github.com/CleanCut/green) - A clean, colorful test runner.
 - [Nox](https://github.com/theacodes/nox) - is a command-line tool that automates testing in multiple Python environments, similar to tox. Unlike tox, Nox uses a standard Python file for configuration.
 - [tox](https://tox.readthedocs.io/en/latest) - Auto builds and tests distributions in multiple Python versions.
+- [pytest-analyzer](https://pypi.org/project/pytest-analyzer/) - this plugin allows to analyze tests in pytest project, collect test metadata and reports them to the testomat.io TCM system.
+- [pytest-analyzer](https://github.com/testomatio/reporter/blob/master/docs/junit.md#pytest) - real-time reporting and rich analytics of automation coverage, flaky tests, slowest tests, never-run tests through JUnit report.xml.
 
 ## Testing Frameworks
 
